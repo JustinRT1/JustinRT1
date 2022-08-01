@@ -1,5 +1,3 @@
-                                                                       ### Hi there 👋
-
 <!--
 **JustinRT1/JustinRT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90338097/182057068-22284b26-b692-4bf5-a1d9-812211630ed9.gif)
+
+### Hi there 👋
